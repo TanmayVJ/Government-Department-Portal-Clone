@@ -1,0 +1,232 @@
+@media only screen and (max-width: 1200px;){
+    #mid1 #mid2 #mid3 #mid4{
+      width:40% ;
+     height: 100%;   
+} 
+*{
+     margin-left: 20%;
+        
+    }
+
+#HEADER{
+      border-radius: 10px;
+      font-family: Segoe UI
+;
+}
+
+#head{
+    
+    background-color: orange;
+    text-decoration: underline solid;
+    border-bottom: 6px solid black;
+    border-top:8px inset black;
+}
+
+.start{
+    font-size: 40px;
+}
+
+#img1{
+    width:200 px;
+    height: 150px;
+    float: left;
+    padding :15px; 
+    padding-top:20px;
+}
+a{
+    color: blue;
+}
+h1.name{
+    padding : 15px;
+    text-align: center;
+    font-size : 50px;
+    font-family: Serif;
+}
+
+.topnav {
+  background-color: #22438c ;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14px 6px;
+  text-decoration:none;
+  font-size: 20px;
+  font-family: 	Lucida Console;
+}
+
+.topnav a:hover {
+  background-color: DodgerBlue ;
+  color: black ;
+}
+
+.topnav a.active {
+  background-color: #00cc00;
+  color: black;
+} 
+#department{
+    border: solid;
+    background-color: DimGray;
+    color: white ;
+    width: 100 %;
+    text-align: center ;
+    letter-spacing:15px;
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 100px;  
+    margin-top: 2px; 
+}
+#i2{
+    height: 100px ;
+}
+#headimg1{
+    width:400px;
+    height: 400px;
+    image-align: center;
+    float: right;
+    border: 4px solid black ;
+}
+#headimg{
+    display: flex;
+    
+}
+#headimg2{
+    width: 90%;
+    height: 350px ;
+    border:5px solid brown;
+    margin-left:40px;
+}
+
+.intro{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAl47kkNH9z_rpnaMXZ0zYRmW6j1tOVzPog&usqp=CAU');
+    border-top: 10px solid;
+}
+#headend{
+    font-size:40px;
+}
+#department {
+    padding: 15px;
+    font-size: 50px;
+}
+
+ul.dept a{
+       font-size : 50px;
+       text-decoration:none;
+       color: black;
+       text-decoration:bold;   
+        
+       
+}
+ul.dept li{
+    font-family: Roman;
+}
+ul.dept p{
+       font-size : 37px;
+       margin: 50px;
+       font-family: Helvetica;
+}
+ul.dept{
+    border-bottom: 8px solid;
+    
+
+}
+#G1{
+    display: flex;
+    width: 200px;
+    height: 400px ;
+    
+    
+}
+#G2{
+    display: flex;
+    width: 400px;
+    height: 400px ;
+    
+      
+}
+.about{
+    text-align: center;
+    border: 10px solid black;
+    border-right: none;
+    border-left: none;
+}
+.about h1{
+      text-align: center;
+    font-size: 60px;
+    color: white;
+    border: 4px solid black;
+    padding: 15px;
+    background-color: purple;
+    border-radius:40px;
+}
+.about p{
+    font-size: 40px;
+    font-family: Tahoma;
+}
+
+main.M h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    border: 4px solid black;
+    padding: 15px;
+    background-color: Navy ;
+    border-radius:40px;
+}
+#mainhead{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlv5q9vUvLN69Oru9yQVAMTBwG3xvlPjYcjw&usqp=CAU');
+    border:10px solid;
+    border-right: none;
+    border-left: none;
+}
+main.M p{
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+main{
+    border-bottom: 10px solid;
+}
+.M ul{
+    font-size: 30px;
+    font-family: Lucida Console;
+}
+.M h3{
+    font-size: 40px;
+    text-decoration: underline solid;
+}
+.M a{
+    margin-left: 45%;
+    font-size: 20px;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+.M img{
+    border: 5px solid;
+}
+
+#health, #agriculture, #finance, #education, #transport {
+    text-align: center;
+    font-size: 45px;
+    border: 3px solid ;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#submit{
+    text-align: center;
+    margin-left :40%;
+}
+#footer{
+    background-color: #ffa64d;
+    color: black;
+    padding: 10px ;
+}
+#contact{
+    text-align:center;
+    font-size: 50px;
+}
